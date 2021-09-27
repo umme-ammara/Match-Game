@@ -1,2 +1,1 @@
-#Coursera 
-#Match Game made in Python using Pygame Module
+A match game made using the PyGame module in Python. 
